@@ -1,0 +1,65 @@
+{
+  "version": "2026",
+  "fuente": "Anexo 8 RMF 2026 (DOF 28/12/2025)",
+  "fechaPublicacion": "2025-12-28",
+  "fechaDescarga": "2026-01-02",
+  "isrMensual": [
+    { "limInf": 0.01, "limSup": 844.59, "cuotaFija": 0.00, "porcentaje": 1.92 },
+    { "limInf": 844.60, "limSup": 7168.51, "cuotaFija": 16.22, "porcentaje": 6.40 },
+    { "limInf": 7168.52, "limSup": 12598.02, "cuotaFija": 420.95, "porcentaje": 10.88 },
+    { "limInf": 12598.03, "limSup": 14644.64, "cuotaFija": 1011.68, "porcentaje": 16.00 },
+    { "limInf": 14644.65, "limSup": 17533.64, "cuotaFija": 1339.14, "porcentaje": 17.92 },
+    { "limInf": 17533.65, "limSup": 35362.83, "cuotaFija": 1856.84, "porcentaje": 21.36 },
+    { "limInf": 35362.84, "limSup": 55736.68, "cuotaFija": 5665.16, "porcentaje": 23.52 },
+    { "limInf": 55736.69, "limSup": 106410.50, "cuotaFija": 10457.09, "porcentaje": 30.00 },
+    { "limInf": 106410.51, "limSup": 141880.66, "cuotaFija": 25659.23, "porcentaje": 32.00 },
+    { "limInf": 141880.67, "limSup": 425641.99, "cuotaFija": 37009.69, "porcentaje": 34.00 },
+    { "limInf": 425642.00, "limSup": 999999999, "cuotaFija": 133488.54, "porcentaje": 35.00 }
+  ],
+  "isrAnual": [
+    { "limInf": 0.01, "limSup": 10134.84, "cuotaFija": 0.00, "porcentaje": 1.92 },
+    { "limInf": 10135.18, "limSup": 86022.13, "cuotaFija": 194.64, "porcentaje": 6.40 },
+    { "limInf": 86022.14, "limSup": 151176.24, "cuotaFija": 5051.41, "porcentaje": 10.88 },
+    { "limInf": 151176.25, "limSup": 175735.67, "cuotaFija": 12140.19, "porcentaje": 16.00 },
+    { "limInf": 175735.68, "limSup": 210403.67, "cuotaFija": 16069.72, "porcentaje": 17.92 },
+    { "limInf": 210403.68, "limSup": 424353.96, "cuotaFija": 22282.08, "porcentaje": 21.36 },
+    { "limInf": 424353.97, "limSup": 668840.16, "cuotaFija": 67981.92, "porcentaje": 23.52 },
+    { "limInf": 668840.17, "limSup": 1276926.00, "cuotaFija": 125485.05, "porcentaje": 30.00 },
+    { "limInf": 1276926.01, "limSup": 1702567.92, "cuotaFija": 307910.83, "porcentaje": 32.00 },
+    { "limInf": 1702567.93, "limSup": 5107703.88, "cuotaFija": 444116.32, "porcentaje": 34.00 },
+    { "limInf": 5107703.89, "limSup": 999999999, "cuotaFija": 1601861.57, "porcentaje": 35.00 }
+  ],
+  "subsidio": [
+    { "limInf": 0.01, "limSup": 2775.00, "cuota": 0.00 },
+    { "limInf": 2775.01, "limSup": 4169.50, "cuota": 13.39 },
+    { "limInf": 4169.51, "limSup": 5218.13, "cuota": 53.53 },
+    { "limInf": 5218.14, "limSup": 6952.17, "cuota": 93.68 },
+    { "limInf": 6952.18, "limSup": 7590.03, "cuota": 173.96 },
+    { "limInf": 7590.04, "limSup": 15320.48, "cuota": 194.40 },
+    { "limInf": 15320.49, "limSup": 23993.00, "cuota": 203.15 },
+    { "limInf": 23993.01, "limSup": 999999999, "cuota": 0.00 }
+  ],
+  "resico": [
+    { "limInf": 0.01, "limSup": 300000.00, "porcentaje": 1.00 },
+    { "limInf": 300000.01, "limSup": 600000.00, "porcentaje": 1.10 },
+    { "limInf": 600000.01, "limSup": 1000000.00, "porcentaje": 1.50 },
+    { "limInf": 1000000.01, "limSup": 3500000.00, "porcentaje": 2.00 },
+    { "limInf": 3500000.01, "limSup": 999999999, "porcentaje": 2.50 }
+  ],
+  "iva": {
+    "general": 16,
+    "fronteriza": 8,
+    "fronterizaSur": 8
+  },
+  "retenciones": {
+    "isrServicios": 10,
+    "isrBienes": 0,
+    "isrUsoGoce": 10,
+    "isrResico": 1.25,
+    "ivaRate": 66.6667,
+    "ivaPlataformas": 50,
+    "plataformaTransporte": 2.1,
+    "plataformaHospedaje": 4,
+    "plataformaBienes": 1
+  }
+}
